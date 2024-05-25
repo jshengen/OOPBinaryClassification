@@ -1,2 +1,2 @@
 # OOPBinaryClassification
-Machine learning methods of binary classification with focus on undertsanding internal function of attention modules. 
+Machine learning methods of binary classification with focus on understanding internal function of attention modules. 
